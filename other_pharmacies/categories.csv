@@ -1,0 +1,74 @@
+parent_cat,sub_cat,sub_cat_link,id
+Apollo Products,Personal Care,apollo-personal-care,681
+Apollo Products,Baby Care,apollo-baby-care,1154
+Apollo Products,OTC,apollo-otc,685
+Apollo Products,Vitamins & Supplements,apollo-vitamins-supplements,725
+Apollo Products,Food & Drink,apollo-food-drink,2017
+Apollo Products,Health Accessories,apollo-healthcare-devices,1162
+Apollo Products,Weight Management,apollo-weight-management,2021
+Baby Care,Diapering,diapering,25
+Baby Care,Diaper By Weight,diaper-by-weight,6286
+Baby Care,Baby Food,baby-food,42
+Baby Care,Baby Skin Care,baby-skin-care,50
+Baby Care,Baby Food By Age,baby-food-by-age,6279
+Baby Care,Baby Hair Care,baby-hair-care,1012
+Baby Care,Baby Bath,bath-gel,51
+Baby Care,Baby Oral Care,baby-oral-care,48
+Baby Care,Baby Gift Sets,baby-gift-sets,49
+Baby Care,Feeding Bottles & Accessories,feeding-bottles-accessories,29
+Baby Care,Breast Feeding,breast-feeding,6245
+Baby Care,Mother Care,mother-care,2055
+Baby Care,Baby Health & Safety,baby-health-safety,6244
+Health & Nutrition,Health Drinks,nutritional-drinks,133
+Health & Nutrition,Sports Nutrition,sports-nutrition-1,144
+Health & Nutrition,Vitamins & Supplements,vitamins-supplements-1,7
+Health & Nutrition,Minerals,minerals,13
+Health & Nutrition,Omega & Fish Oil,omega-3-supplements,152
+Health & Nutrition,Speciality Supplements,specialty-supplements,175
+Health & Nutrition,Weight Management,weight-management-1,11
+Health & Nutrition,Immunity Boosters,immunity-boosters,2023
+Health & Nutrition,Sexual Health Supplements,sexual-health-supplements-1,64
+Women Care,Feminine Hygiene,feminine-hygiene,5997
+Women Care,Women Supplements,women-supplements,2058
+Women Care,Gyno Care,gyno-care,5984
+Women Care,Pregnancy,pregnancy,5985
+Women Care,Grooming,grooming,5986
+Personal Care,Skin Care,skin-care-1,15
+Personal Care,Hair Care,hair-care,22
+Personal Care,Oral Care,oral-care-1,216
+Personal Care,Mens Grooming,mens-grooming,19
+Personal Care,Sexual Wellness,sexual-wellness-1,223
+Personal Care,Fragrances,fragrance,191
+Personal Care,Adult Diapers,adult-diapers,242
+Ayurveda,Health Concerns,health-concerns,2281
+Ayurveda,Herbs,herbs,2294
+Ayurveda,Herbal Juices,herbal-juices,2292
+Ayurveda,Chyawanprash,chyawanprash,2293
+Health Devices,BP Monitors,bp-monitors,72
+Health Devices,Glucometers & Test Strips,glucometers-test-strips,90
+Health Devices,Covid Test Kits,covid-home-test-kits,4051
+Health Devices,Thermometers,health-thermometers,2024
+Health Devices,Pulse Oximeters,oximeters,2068
+Health Devices,Pregnancy test Kit,pregnancy-ovulation,89
+Health Devices,Heating Belts,heating-pads,4094
+Health Devices,Weighing Machine,weighing-machine,2026
+Health Devices,Nebulizer,nebulizer,2025
+Health Devices,Supports & Splints,supports-splints,78
+Health Devices,Health Accessories,health-accessories-1,76
+Home Essentials,Insect Repellents,insect-repellents,1205
+Home Essentials,Antiseptic Liquids,antiseptic-liquids,1200
+Home Essentials,Room Freshners,room-freshners,1202
+Home Essentials,Cleaning Essentials,cleaning-essentials,1419
+Home Essentials,Batteries,batteries,1209
+Health Condition,Mental Wellness,mental-wellness,4086
+Health Condition,Liver Care,liver-care,4087
+Health Condition,Diabetic,diabetic,1450
+Health Condition,Pain Relief,pain-relief,2048
+Health Condition,Cardiac,cardiac,1453
+Health Condition,Kidney Care,kidney-care,2429
+Health Condition,Stomach Care,stomach-care,1454
+Health Condition,Respiratory,respiratory,1455
+Health Condition,Eye care,eye-care-1,2049
+Health Condition,Cold & Cough,cold-cough,2033
+Health Condition,Wound Care,wound-care-1,2041
+Health Condition,Sleep Aids,sleep-aids,6192

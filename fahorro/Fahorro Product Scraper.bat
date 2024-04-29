@@ -1,0 +1,2 @@
+python fahorro.py
+pause

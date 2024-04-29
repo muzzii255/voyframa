@@ -1,0 +1,2 @@
+python3 farmaciasguadalajara_product_scraper.py
+pause

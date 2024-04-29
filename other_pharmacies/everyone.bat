@@ -1,0 +1,2 @@
+python everyone.py
+pause

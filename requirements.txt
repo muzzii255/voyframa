@@ -1,0 +1,10 @@
+iteration_utilities==0.11.0
+pandas==1.5.3
+pymongo==4.3.3
+regex==2023.5.5
+requests==2.30.0
+scraper_helper==0.0.8
+Scrapy==2.9.0
+selenium==4.16.0
+undetected_chromedriver==3.5.4
+xmltodict==0.13.0
